@@ -1,5 +1,3 @@
-# Quiz-Game-Python-OOP
-A command-line True/False quiz game built with Python using Object-Oriented Programming principles and the Open Trivia Database API.
 # Quiz Game 🎯
 
 A command-line True/False quiz game built with Python using Object-Oriented Programming principles and the Open Trivia Database API.
@@ -38,7 +36,6 @@ quiz-game/
 ├── quiz_brain.py
 ├── requirements.txt
 ├── README.md
-└── .gitignore
 ```
 
 ---
@@ -70,34 +67,6 @@ quiz-game/
 
 ---
 
-## Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/YOUR_USERNAME/quiz-game.git
-```
-
-Move into the project folder:
-
-```bash
-cd quiz-game
-```
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-Run the project:
-
-```bash
-python main.py
-```
-
----
-
 ## Example Gameplay
 
 ```text
@@ -126,27 +95,7 @@ your current score is: 1/1
 
 ---
 
-## Future Improvements
+Screenshots...
+<img width="1919" height="1079" alt="Screenshot 2026-05-17 151802" src="https://github.com/user-attachments/assets/c7ecf545-b013-4dc5-8111-d7f7eda65bbd" />
+<img width="1919" height="1079" alt="Screenshot 2026-05-17 151840" src="https://github.com/user-attachments/assets/33b9f2d0-72d5-44e9-aa3d-aad4fbacec0d" />
 
-* Difficulty selection
-* Multiple-choice questions
-* Timed quiz mode
-* GUI version with Tkinter
-* Leaderboard system
-* Question caching
-
----
-
-## Acknowledgements
-
-* Angela Yu's 100 Days of Code
-* Open Trivia Database API
-
-API:
-https://opentdb.com/
-
----
-
-## Author
-
-Built by [Your Name]
